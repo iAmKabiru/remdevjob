@@ -1,4 +1,5 @@
 # remdevjob
 #remdevjob
-| Name  | Looking for | link | Twitter account|
-
+| Name  | Email | Best skills | link | Twitter account|
+------------------------------------------
+| YourName  | yourmail@mail.com  | Javascript Master | http://www.example.com | http://mytwitterlink
